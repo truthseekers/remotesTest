@@ -3,3 +3,5 @@ commit 1
 commit 2 on master
 
 commit 3 on master
+
+commit 4 on master
