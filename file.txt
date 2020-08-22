@@ -6,4 +6,4 @@ commit 3 on master
 
 commit 4 on master
 
-conflict again
+commit 5 on master
